@@ -1,0 +1,22 @@
+I"�<h2 id="첫-글">첫 글</h2>
+<ul>
+  <li>글은 _posts폴더에 markdown 파일로 작성</li>
+  <li>레이아웃 설정 가능. _layout폴더에 샘플 레이아웃이 존재함 (post.html, article.html, framework.html 등등)</li>
+  <li>최상위폴더의 about.html을 수정하여 about 메뉴를 수정할 수 있다</li>
+  <li>home 메뉴의 제목은 _data 폴더의 defaults.yml 파일에서 수정가능</li>
+  <li>gemfile, gemfile.lock같은것들은 루비 관련 파일인듯</li>
+  <li>_site는 내가 추가하는 파일들을가지고 jekyll이 만들어낸 실제 웹페이지인 것 같다.</li>
+  <li>로컬에서 사이트 실행해보고 싶을땐 cmd로 블로그 레포지토리 경로에 진입하여 bundle exec jekyll serve –trace 명령어 실행</li>
+</ul>
+
+<h1 id="내-유튜브-링크-걸기">내 유튜브 링크 걸기</h1>
+<p>메이플 무지성강화 영상
+<img src="//https://youtu.be/M7CACLkf8IA" alt="" /></p>
+
+<h2 id="finneas-demos-how-he-builds-songs-for-billie-eilish">FINNEAS Demos How He Builds Songs For Billie Eilish</h2>
+<p>Grammy Award-winning musician and producer FINNEAS sits down with Pitchfork and closely examines his creative process while working on some of the biggest hit songs of the past couple years. FINNEAS explores the sounds that brought upon 
+some of his greatest musical breakthroughs in songs such as bad guy, bury a friend, ocean eyes, when the party’s over, I Lost a Friend, Used to This and much more.</p>
+
+<p>![] (https://dai.ly/x7tgcev)</p>
+
+:ET
