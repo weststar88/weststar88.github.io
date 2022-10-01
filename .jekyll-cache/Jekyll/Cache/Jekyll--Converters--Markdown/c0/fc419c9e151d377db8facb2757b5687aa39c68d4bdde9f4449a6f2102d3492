@@ -1,0 +1,7 @@
+I"|<ul>
+  <li>글은 _posts폴더에 markdown 파일로 작성</li>
+  <li>레이아웃 설정 가능. _layout폴더에 샘플 레이아웃이 존재함 (post, article, framework 등등)</li>
+  <li>최상위폴더의 about.html을 수정하여 about 메뉴를 수정할 수 있다.</li>
+  <li>home 메뉴의 설명은 _data 폴더의 defaults.yml 파일에서 수정가능</li>
+</ul>
+:ET
