@@ -68,7 +68,7 @@ class MyMono : MonoBehaviour
 상위오브젝트의 transform을 조절하게 되면 하위에있는 모든 오브젝트의 transform에 영향을 미치기 때문에 주의해서 조절하는게 좋다.
 캐릭터 같은경우 어쩔수없이 계층구조가 생길수밖에없는데, 이때 캐릭터 import 세팅쪽을 보면 optimize Game Object 라는 옵션을 켜주게 되면
 
-![optimize Game Object](/assets/images/optimize Game Object.png)
+![optimizeGameObject](/assets/images/optimizeGameObject.png)
 
 유니티 하이어라키쪽에서 생략해서 보여주게됨
 그럼 사용자 입장에서 더 이상 필요없는 하위구조에 접근할수없게 되니까 성능을 좀 더 높힐 수 있다.
