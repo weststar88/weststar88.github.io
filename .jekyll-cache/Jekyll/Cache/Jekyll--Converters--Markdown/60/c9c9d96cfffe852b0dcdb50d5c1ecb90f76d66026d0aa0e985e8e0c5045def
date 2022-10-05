@@ -1,4 +1,4 @@
-I"�<h2 id="첫-글">첫 글</h2>
+I"�<h2 id="첫-글">첫 글</h2>
 <ul>
   <li>글은 _posts폴더에 markdown 파일로 작성</li>
   <li>레이아웃 설정 가능. _layout폴더에 샘플 레이아웃이 존재함 (post.html, article.html, framework.html 등등)</li>
@@ -11,7 +11,7 @@
 
 <h2 id="내-유튜브-링크-걸기">내 유튜브 링크 걸기</h2>
 <p>메이플 무지성강화 영상
-<img src="//https://youtu.be/M7CACLkf8IA" alt="" /></p>
+<img src="//https://youtu.be/M7CACLkf8IA" alt="myMaple" /></p>
 
 <h2 id="코드-넣기">코드 넣기</h2>
 
