@@ -16,7 +16,7 @@ tags: [test]
 
 ## 내 유튜브 링크 걸기
 메이플 무지성강화 영상
-![](//https://youtu.be/M7CACLkf8IA)
+![myMaple](//https://youtu.be/M7CACLkf8IA)
 
 ## 코드 넣기
 {% highlight c# %}
